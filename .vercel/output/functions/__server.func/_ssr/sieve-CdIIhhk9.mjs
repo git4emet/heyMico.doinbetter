@@ -1,0 +1,91 @@
+import { S as require_jsx_runtime } from "../_libs/@tanstack/react-router+[...].mjs";
+import { o as SIEVE_NAME, s as Shell } from "./shell-8d_9ZBuu.mjs";
+//#region node_modules/.nitro/vite/services/ssr/assets/sieve-CdIIhhk9.js
+var import_jsx_runtime = require_jsx_runtime();
+var assertions_default = /*#__PURE__*/ JSON.parse("[{\"id\":\"ASSERT-000001\",\"excerpt\":\"What does the world need most right now to do the most good for those who need it the most fastest and for everybody when if they choose to associate themselves there at all then t\",\"type\":\"candidate_user_instruction\",\"state\":\"awaiting_signature\",\"perm\":\"no_build\"},{\"id\":\"ASSERT-000002\",\"excerpt\":\"Would you please research what such a system would require and what systems are thusly engaged.\",\"type\":\"candidate_user_instruction\",\"state\":\"awaiting_signature\",\"perm\":\"no_build\"},{\"id\":\"ASSERT-000003\",\"excerpt\":\"what can you find out about the Holbrook and Associates group in Colorado and surrounding areas and what the industries metrics reveal\",\"type\":\"candidate_user_instruction\",\"state\":\"awaiting_signature\",\"perm\":\"no_build\"},{\"id\":\"ASSERT-000004\",\"excerpt\":\"It is an environmental group\",\"type\":\"candidate_user_instruction\",\"state\":\"awaiting_signature\",\"perm\":\"no_build\"},{\"id\":\"ASSERT-000005\",\"excerpt\":\"heavy metal harmonic brick A you.\\nI'm here to assist with finding business services, providers, or vendor information on Clutch.co. It seems your request isn't related to business \",\"type\":\"candidate_user_instruction\",\"state\":\"awaiting_signature\",\"perm\":\"no_build\"},{\"id\":\"ASSERT-000006\",\"excerpt\":\"The plastics just sitting there floating waiting for somebody to pick it up so we have technology that is more capable than overcoming that problem and I would like to package that\",\"type\":\"candidate_user_instruction\",\"state\":\"awaiting_signature\",\"perm\":\"no_build\"},{\"id\":\"ASSERT-000007\",\"excerpt\":\"tell me why they are not utilizing generation to reactors that run on nuclear waste and get the last 80% or whatever out of them because they have a solution set for that and I rea\",\"type\":\"candidate_user_instruction\",\"state\":\"awaiting_signature\",\"perm\":\"no_build\"},{\"id\":\"ASSERT-000008\",\"excerpt\":\"Yes I get my vocabulary backward sometimes for the dielectric is the coaxial projecting and that’s the base the can when you flip it inside out but yes you’re right in that case I \",\"type\":\"candidate_user_instruction\",\"state\":\"awaiting_signature\",\"perm\":\"no_build\"},{\"id\":\"ASSERT-000009\",\"excerpt\":\"and you know the funniest part that’s probably really struggled with it because I needed to remember that piece OK LMNT it’s an electrolyte drink tell me about that too. And explor\",\"type\":\"candidate_user_instruction\",\"state\":\"awaiting_signature\",\"perm\":\"no_build\"},{\"id\":\"ASSERT-000010\",\"excerpt\":\"And through either of those dispersion mechanisms there are resource potential and there are logistical structures already in place what do you see as the optimal coordination of t\",\"type\":\"candidate_user_instruction\",\"state\":\"awaiting_signature\",\"perm\":\"no_build\"},{\"id\":\"ASSERT-000011\",\"excerpt\":\"if you were to utilize offgassing hydrogen as a charge carrier in a a reverse engineered water dam and solar cell and battery management dynamic coordinator analog relatively speak\",\"type\":\"candidate_user_instruction\",\"state\":\"awaiting_signature\",\"perm\":\"no_build\"},{\"id\":\"ASSERT-000012\",\"excerpt\":\"when you look at the painted desert and you see the striations the layers and the rock and you go to the lake and you see the high-level mark where the water we got that high that \",\"type\":\"candidate_user_instruction\",\"state\":\"awaiting_signature\",\"perm\":\"no_build\"},{\"id\":\"ASSERT-000013\",\"excerpt\":\"that would be more electro motive or mode electric. And when you look at what you consider to The buoyancy of the inverse fractional distillation tears collection serves I bet we c\",\"type\":\"candidate_user_instruction\",\"state\":\"awaiting_signature\",\"perm\":\"no_build\"},{\"id\":\"ASSERT-000014\",\"excerpt\":\"I would and I would like you to consider the skimmer that is able to will make homes of shipping containers essentially conceptually but not that takes the stuff that’s already pil\",\"type\":\"candidate_user_instruction\",\"state\":\"awaiting_signature\",\"perm\":\"no_build\"},{\"id\":\"ASSERT-000015\",\"excerpt\":\"and I bet if you used a sinker as another buoyancy electrical generator kind of like they do with the tide generators that would probably give it a little extra open for the doldru\",\"type\":\"candidate_user_instruction\",\"state\":\"awaiting_signature\",\"perm\":\"no_build\"},{\"id\":\"ASSERT-000016\",\"excerpt\":\"I need to assemble all the pieces that I’ve produced and I need to do it through in 2011 iPad and Lennox laptop and I’d like to be able to talk to one from the other while I’m coor\",\"type\":\"candidate_user_instruction\",\"state\":\"awaiting_signature\",\"perm\":\"no_build\"},{\"id\":\"ASSERT-000017\",\"excerpt\":\"i’ve got some little ESP 32s firmware sketched out I’m wondering about these little greeting cards that companies are sending out now that are basically like smart birthday cards w\",\"type\":\"candidate_user_instruction\",\"state\":\"awaiting_signature\",\"perm\":\"no_build\"},{\"id\":\"ASSERT-000018\",\"excerpt\":\"I just thought of something all of my my threads are in an archive together already on the different platforms and I’ve got like dropbox and Google Drive and they have those on the\",\"type\":\"candidate_user_instruction\",\"state\":\"awaiting_signature\",\"perm\":\"no_build\"},{\"id\":\"ASSERT-000019\",\"excerpt\":\"How can we weave that into the webpage that I can coordinate that with on my old iPad as kind of a Post-it note that remembers why I mentioned it\",\"type\":\"candidate_user_instruction\",\"state\":\"awaiting_signature\",\"perm\":\"no_build\"},{\"id\":\"ASSERT-000020\",\"excerpt\":\"what are the full abilities of such a set up that we can now configure optimally for when we do get everything coordinated then so I don’t have to remember everything we talked abo\",\"type\":\"candidate_user_instruction\",\"state\":\"awaiting_signature\",\"perm\":\"no_build\"},{\"id\":\"ASSERT-000021\",\"excerpt\":\"I just remembered I’ve got me see where it’s at and I got a panel of that I wanna see if I can put by a programmer for and just reflash it because right now it’s just hard to get a\",\"type\":\"candidate_user_instruction\",\"state\":\"awaiting_signature\",\"perm\":\"no_build\"},{\"id\":\"ASSERT-000022\",\"excerpt\":\"I just remembered I’ve got me see where it’s at and I got a panel of that I wanna see if I can put by a programmer for and just reflash it because right now it’s just hard to get a\",\"type\":\"candidate_user_instruction\",\"state\":\"awaiting_signature\",\"perm\":\"no_build\"},{\"id\":\"ASSERT-000023\",\"excerpt\":\"Hey look at who does those are there’s a bunch of alarm.com about them what frequency does their wireless window stuff use is that something that we can if we had a bunch of them t\",\"type\":\"candidate_user_instruction\",\"state\":\"awaiting_signature\",\"perm\":\"no_build\"},{\"id\":\"ASSERT-000024\",\"excerpt\":\"Please look into the people that are building their own Smart Home mirror smart office assistance the you know the hugging face of Church was arm terrible this morning goodness gra\",\"type\":\"candidate_user_instruction\",\"state\":\"awaiting_signature\",\"perm\":\"no_build\"},{\"id\":\"ASSERT-001854\",\"excerpt\":\"Merge projects, please, within:) [: are you ready, for this…You just stated the validation rule for the hypergraph's dictionary.\\n\\nTwo angles, seven times. Same pair or seven differ\",\"type\":\"candidate_user_instruction\",\"state\":\"awaiting_signature\",\"perm\":\"no_build\"},{\"id\":\"ASSERT-001855\",\"excerpt\":\"The Omni.input Spec is now a true configuration ring—it unifies your Runtime Brain with the Fleet Protocol, the 7 Non‑Negotiable Attributes, and the freshest arxiv research. Below \",\"type\":\"candidate_user_instruction\",\"state\":\"awaiting_signature\",\"perm\":\"no_build\"},{\"id\":\"ASSERT-001856\",\"excerpt\":\"The CatLabs Studio Show-Dollhouse — A Living Architecture\\n\\nBuddy — this is the synthesis. The rule book, the keyboard dictionary, Mom's table, the HUD, the 3D-printed studio, the s\",\"type\":\"candidate_user_instruction\",\"state\":\"awaiting_signature\",\"perm\":\"no_build\"},{\"id\":\"ASSERT-001857\",\"excerpt\":\"🕵️‍♂️ **URI & Share Extraction from Your Latest Block**\\n\\nI’ve scanned the specific block of text you just provided—the long list of artifacts, topics, and filenames—and extracted e\",\"type\":\"candidate_user_instruction\",\"state\":\"awaiting_signature\",\"perm\":\"no_build\"},{\"id\":\"ASSERT-001858\",\"excerpt\":\"Blender Table Modeling Summary and Brief\\nDIY Self API MCP Language Models Shared Agency Agents Research Report\\nMobius Core Blueprint\\nShare Analysis\\nHypertube Meta-Hypergraph System\",\"type\":\"candidate_user_instruction\",\"state\":\"awaiting_signature\",\"perm\":\"no_build\"},{\"id\":\"ASSERT-001859\",\"excerpt\":\"前两个分享链接（`jir02ik8r7d2v3laff` 和 `ve9c72g4dcvlajzr3s`）无法访问，可能是私密链接或已过期。以下综合整理基于**第三个可访问链接**（`45i4uzd737dgro6cl3`）的完整对话内容。\\n\\n---\\n\\n该对话围绕一个高度抽象的系统构建请求展开，核心是开发一个能分析文本“架构拓扑”的系统。以下是该对话中讨论的各\",\"type\":\"candidate_user_instruction\",\"state\":\"awaiting_signature\",\"perm\":\"no_build\"},{\"id\":\"ASSERT-001860\",\"excerpt\":\"sort all into orders\",\"type\":\"candidate_user_instruction\",\"state\":\"awaiting_signature\",\"perm\":\"no_build\"},{\"id\":\"ASSERT-001861\",\"excerpt\":\"8 Sites TShirt Pipeline\\n\\n    Analyze the User's Request:\\n\\n        The user uploaded a single, massive HTML file: git4emet (simplyBuddy_n8mcaPiB0xrophipsi TogaParty42Ohhhh XD) _ Sep\",\"type\":\"candidate_user_instruction\",\"state\":\"awaiting_signature\",\"perm\":\"no_build\"}]");
+function Sieve() {
+	const awaiting = assertions_default.filter((a) => a.state === "awaiting_signature").length;
+	return /* @__PURE__ */ (0, import_jsx_runtime.jsxs)(Shell, { children: [
+		/* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", {
+			className: "text-xs font-semibold uppercase tracking-[0.18em] text-sand",
+			children: "Index · signature queue"
+		}),
+		/* @__PURE__ */ (0, import_jsx_runtime.jsx)("h1", {
+			className: "mt-2 text-4xl",
+			children: "Sieve shuffle"
+		}),
+		/* @__PURE__ */ (0, import_jsx_runtime.jsxs)("p", {
+			className: "mt-3 max-w-2xl text-sm text-muted",
+			children: [
+				SIEVE_NAME,
+				" is the recursive quadratic call. Claims from the conversation archive are candidates only. Build permission stays",
+				" ",
+				/* @__PURE__ */ (0, import_jsx_runtime.jsx)("span", {
+					className: "text-warn",
+					children: "no_build"
+				}),
+				" until you sign. Hidden reasoning and private account files are not public artifacts."
+			]
+		}),
+		/* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", {
+			className: "mt-5 grid grid-cols-3 gap-2 text-center",
+			children: [
+				/* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", {
+					className: "rounded-xl border border-line bg-panel px-3 py-4",
+					children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", {
+						className: "text-2xl font-semibold tabular-nums",
+						children: assertions_default.length
+					}), /* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", {
+						className: "text-xs text-muted",
+						children: "Sampled claims"
+					})]
+				}),
+				/* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", {
+					className: "rounded-xl border border-line bg-panel px-3 py-4",
+					children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", {
+						className: "text-2xl font-semibold tabular-nums",
+						children: awaiting
+					}), /* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", {
+						className: "text-xs text-muted",
+						children: "Awaiting signature"
+					})]
+				}),
+				/* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", {
+					className: "rounded-xl border border-line bg-panel px-3 py-4",
+					children: [/* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", {
+						className: "text-2xl font-semibold tabular-nums",
+						children: "0"
+					}), /* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", {
+						className: "text-xs text-muted",
+						children: "Signed this session"
+					})]
+				})
+			]
+		}),
+		/* @__PURE__ */ (0, import_jsx_runtime.jsx)("ul", {
+			className: "mt-6 grid gap-2",
+			children: assertions_default.map((a) => /* @__PURE__ */ (0, import_jsx_runtime.jsxs)("li", {
+				className: "rounded-xl border border-line bg-panel p-4",
+				children: [/* @__PURE__ */ (0, import_jsx_runtime.jsxs)("div", {
+					className: "flex flex-wrap items-center gap-2 text-[11px] uppercase tracking-wide text-sand",
+					children: [
+						/* @__PURE__ */ (0, import_jsx_runtime.jsx)("span", { children: a.id }),
+						/* @__PURE__ */ (0, import_jsx_runtime.jsx)("span", {
+							className: "text-muted",
+							children: a.type
+						}),
+						/* @__PURE__ */ (0, import_jsx_runtime.jsx)("span", {
+							className: "text-warn",
+							children: a.perm
+						})
+					]
+				}), /* @__PURE__ */ (0, import_jsx_runtime.jsx)("p", {
+					className: "mt-2 text-sm",
+					children: a.excerpt
+				})]
+			}, a.id))
+		})
+	] });
+}
+//#endregion
+export { Sieve as component };

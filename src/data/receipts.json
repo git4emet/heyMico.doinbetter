@@ -1,0 +1,1050 @@
+[
+  {
+    "id": "RECEIPT-CONV-5354d04f-48b3-4a56-81cb-6c606c351cca",
+    "type": "conversation_extraction",
+    "source": "5354d04f-48b3-4a56-81cb-6c606c351cca",
+    "messages": 69,
+    "assertions": 36,
+    "digest": "f0aec13b7ce9"
+  },
+  {
+    "id": "RECEIPT-CONV-664f7a59-85c0-474b-a624-c8f66767ce20",
+    "type": "conversation_extraction",
+    "source": "664f7a59-85c0-474b-a624-c8f66767ce20",
+    "messages": 81,
+    "assertions": 42,
+    "digest": "f934e185b844"
+  },
+  {
+    "id": "RECEIPT-CONV-30e564ae-a9d4-4d71-9f04-24f9f42287db",
+    "type": "conversation_extraction",
+    "source": "30e564ae-a9d4-4d71-9f04-24f9f42287db",
+    "messages": 11,
+    "assertions": 3,
+    "digest": "eb2311963f5a"
+  },
+  {
+    "id": "RECEIPT-CONV-91222141-aa4d-47c8-b472-f6e62ff4020d",
+    "type": "conversation_extraction",
+    "source": "91222141-aa4d-47c8-b472-f6e62ff4020d",
+    "messages": 180,
+    "assertions": 91,
+    "digest": "df184079a4ea"
+  },
+  {
+    "id": "RECEIPT-CONV-ffc83274-4d43-4f2c-9e44-15eb9c7daa10",
+    "type": "conversation_extraction",
+    "source": "ffc83274-4d43-4f2c-9e44-15eb9c7daa10",
+    "messages": 14,
+    "assertions": 7,
+    "digest": "47056f0da740"
+  },
+  {
+    "id": "RECEIPT-CONV-b508b125-b439-4ece-a40b-35cf58373779",
+    "type": "conversation_extraction",
+    "source": "b508b125-b439-4ece-a40b-35cf58373779",
+    "messages": 76,
+    "assertions": 37,
+    "digest": "6522ba1b7253"
+  },
+  {
+    "id": "RECEIPT-CONV-1cf7b7c9-c485-4216-b539-740abbd66a86",
+    "type": "conversation_extraction",
+    "source": "1cf7b7c9-c485-4216-b539-740abbd66a86",
+    "messages": 10,
+    "assertions": 5,
+    "digest": "a07ea712b6f3"
+  },
+  {
+    "id": "RECEIPT-CONV-54718a66-29d3-4b3f-8d82-16b37bfa9b8d",
+    "type": "conversation_extraction",
+    "source": "54718a66-29d3-4b3f-8d82-16b37bfa9b8d",
+    "messages": 43,
+    "assertions": 23,
+    "digest": "d5a5d668874b"
+  },
+  {
+    "id": "RECEIPT-CONV-b14d6c1e-272e-479a-8cb0-62e3963f73e6",
+    "type": "conversation_extraction",
+    "source": "b14d6c1e-272e-479a-8cb0-62e3963f73e6",
+    "messages": 24,
+    "assertions": 12,
+    "digest": "7f1c56a52a26"
+  },
+  {
+    "id": "RECEIPT-CONV-547ba0f5-e28f-4b0b-ba5c-62afecb0ae39",
+    "type": "conversation_extraction",
+    "source": "547ba0f5-e28f-4b0b-ba5c-62afecb0ae39",
+    "messages": 24,
+    "assertions": 12,
+    "digest": "e47566951b32"
+  },
+  {
+    "id": "RECEIPT-CONV-a839bc4f-25bf-490d-a6eb-98798cd7c5a7",
+    "type": "conversation_extraction",
+    "source": "a839bc4f-25bf-490d-a6eb-98798cd7c5a7",
+    "messages": 25,
+    "assertions": 11,
+    "digest": "1affa7e65780"
+  },
+  {
+    "id": "RECEIPT-CONV-34f98cba-cc84-40cf-9f51-eab5536266d5",
+    "type": "conversation_extraction",
+    "source": "34f98cba-cc84-40cf-9f51-eab5536266d5",
+    "messages": 41,
+    "assertions": 21,
+    "digest": "17dff20de3a6"
+  },
+  {
+    "id": "RECEIPT-CONV-142f4412-9254-433e-b3fe-7e7830229a06",
+    "type": "conversation_extraction",
+    "source": "142f4412-9254-433e-b3fe-7e7830229a06",
+    "messages": 40,
+    "assertions": 21,
+    "digest": "ef12a41f4366"
+  },
+  {
+    "id": "RECEIPT-CONV-cda3264b-a6bd-4f4e-9c28-9c631238b979",
+    "type": "conversation_extraction",
+    "source": "cda3264b-a6bd-4f4e-9c28-9c631238b979",
+    "messages": 8,
+    "assertions": 4,
+    "digest": "3cde5f25bc2d"
+  },
+  {
+    "id": "RECEIPT-CONV-dc83a629-27e1-4032-8303-787138bbfb0c",
+    "type": "conversation_extraction",
+    "source": "dc83a629-27e1-4032-8303-787138bbfb0c",
+    "messages": 31,
+    "assertions": 15,
+    "digest": "de04fa25e400"
+  },
+  {
+    "id": "RECEIPT-CONV-c599bc4e-a458-4b51-8e5a-0db59b21f7fa",
+    "type": "conversation_extraction",
+    "source": "c599bc4e-a458-4b51-8e5a-0db59b21f7fa",
+    "messages": 13,
+    "assertions": 7,
+    "digest": "d3f4304bd591"
+  },
+  {
+    "id": "RECEIPT-CONV-7b6d0028-4c79-4973-88c9-03eb0cd898bc",
+    "type": "conversation_extraction",
+    "source": "7b6d0028-4c79-4973-88c9-03eb0cd898bc",
+    "messages": 26,
+    "assertions": 13,
+    "digest": "79857587faf5"
+  },
+  {
+    "id": "RECEIPT-CONV-4510de83-49c6-4ea1-a576-f1ec6a55c608",
+    "type": "conversation_extraction",
+    "source": "4510de83-49c6-4ea1-a576-f1ec6a55c608",
+    "messages": 8,
+    "assertions": 4,
+    "digest": "a37bd1126942"
+  },
+  {
+    "id": "RECEIPT-CONV-e0fbc683-69da-4b67-8f01-8fb2b398056d",
+    "type": "conversation_extraction",
+    "source": "e0fbc683-69da-4b67-8f01-8fb2b398056d",
+    "messages": 16,
+    "assertions": 8,
+    "digest": "3cfb56d326ad"
+  },
+  {
+    "id": "RECEIPT-CONV-81cfecbd-6589-498d-89eb-3000c927f786",
+    "type": "conversation_extraction",
+    "source": "81cfecbd-6589-498d-89eb-3000c927f786",
+    "messages": 33,
+    "assertions": 16,
+    "digest": "23e0832eb7d5"
+  },
+  {
+    "id": "RECEIPT-CONV-bc7fe015-3dd6-4523-bcc8-c4f738d276c5",
+    "type": "conversation_extraction",
+    "source": "bc7fe015-3dd6-4523-bcc8-c4f738d276c5",
+    "messages": 23,
+    "assertions": 12,
+    "digest": "91ff902d3da4"
+  },
+  {
+    "id": "RECEIPT-CONV-a32effd3-23e8-4886-985a-a40e8b406650",
+    "type": "conversation_extraction",
+    "source": "a32effd3-23e8-4886-985a-a40e8b406650",
+    "messages": 26,
+    "assertions": 13,
+    "digest": "ef716b9e423d"
+  },
+  {
+    "id": "RECEIPT-CONV-bdec3e87-5b92-4940-8e44-2164cf84f0c4",
+    "type": "conversation_extraction",
+    "source": "bdec3e87-5b92-4940-8e44-2164cf84f0c4",
+    "messages": 34,
+    "assertions": 16,
+    "digest": "d5cbf645b294"
+  },
+  {
+    "id": "RECEIPT-CONV-ee1d261e-a3cc-4961-95e6-c69b1fca5ab8",
+    "type": "conversation_extraction",
+    "source": "ee1d261e-a3cc-4961-95e6-c69b1fca5ab8",
+    "messages": 34,
+    "assertions": 17,
+    "digest": "af3abd0ff694"
+  },
+  {
+    "id": "RECEIPT-CONV-4562898c-a8af-4495-95b9-2bfb107b1b1d",
+    "type": "conversation_extraction",
+    "source": "4562898c-a8af-4495-95b9-2bfb107b1b1d",
+    "messages": 8,
+    "assertions": 4,
+    "digest": "7326db297967"
+  },
+  {
+    "id": "RECEIPT-CONV-52010c90-4977-4fa6-8121-e4c6cf81177b",
+    "type": "conversation_extraction",
+    "source": "52010c90-4977-4fa6-8121-e4c6cf81177b",
+    "messages": 17,
+    "assertions": 9,
+    "digest": "def3c8224dff"
+  },
+  {
+    "id": "RECEIPT-CONV-de8c8a55-44b0-4b39-97a5-57f3b8c08bd7",
+    "type": "conversation_extraction",
+    "source": "de8c8a55-44b0-4b39-97a5-57f3b8c08bd7",
+    "messages": 33,
+    "assertions": 16,
+    "digest": "258108c3098a"
+  },
+  {
+    "id": "RECEIPT-CONV-e4ab3112-3fbf-4a9f-989c-59d076b76417",
+    "type": "conversation_extraction",
+    "source": "e4ab3112-3fbf-4a9f-989c-59d076b76417",
+    "messages": 325,
+    "assertions": 162,
+    "digest": "ab112d7e9e61"
+  },
+  {
+    "id": "RECEIPT-CONV-f38a7f6c-6440-4aee-a339-b91c7d310278",
+    "type": "conversation_extraction",
+    "source": "f38a7f6c-6440-4aee-a339-b91c7d310278",
+    "messages": 20,
+    "assertions": 10,
+    "digest": "fb726101c8e3"
+  },
+  {
+    "id": "RECEIPT-CONV-a80043c2-6f95-41f0-9ff5-933b42fcfb02",
+    "type": "conversation_extraction",
+    "source": "a80043c2-6f95-41f0-9ff5-933b42fcfb02",
+    "messages": 2,
+    "assertions": 1,
+    "digest": "ec1094986386"
+  },
+  {
+    "id": "RECEIPT-CONV-20674bea-040a-457b-aabc-110dafd7d9f2",
+    "type": "conversation_extraction",
+    "source": "20674bea-040a-457b-aabc-110dafd7d9f2",
+    "messages": 39,
+    "assertions": 20,
+    "digest": "9f7cca9c79c8"
+  },
+  {
+    "id": "RECEIPT-CONV-94cdc7f1-0129-47d9-b27e-399055590635",
+    "type": "conversation_extraction",
+    "source": "94cdc7f1-0129-47d9-b27e-399055590635",
+    "messages": 61,
+    "assertions": 31,
+    "digest": "76346b0aeb36"
+  },
+  {
+    "id": "RECEIPT-CONV-30e916ca-6bfb-4fa3-b0e0-7a76e6acc46f",
+    "type": "conversation_extraction",
+    "source": "30e916ca-6bfb-4fa3-b0e0-7a76e6acc46f",
+    "messages": 12,
+    "assertions": 6,
+    "digest": "d57262f2232e"
+  },
+  {
+    "id": "RECEIPT-CONV-5e291f93-da37-4e0c-aa69-2011799c1057",
+    "type": "conversation_extraction",
+    "source": "5e291f93-da37-4e0c-aa69-2011799c1057",
+    "messages": 76,
+    "assertions": 38,
+    "digest": "a674df9f3608"
+  },
+  {
+    "id": "RECEIPT-CONV-47fc1d3a-42c3-42a6-9580-6da3a6ed2ed4",
+    "type": "conversation_extraction",
+    "source": "47fc1d3a-42c3-42a6-9580-6da3a6ed2ed4",
+    "messages": 38,
+    "assertions": 19,
+    "digest": "04146369c989"
+  },
+  {
+    "id": "RECEIPT-CONV-0fb515ae-e9b8-4b92-9322-1d39cce39973",
+    "type": "conversation_extraction",
+    "source": "0fb515ae-e9b8-4b92-9322-1d39cce39973",
+    "messages": 60,
+    "assertions": 29,
+    "digest": "7b39d0f4148d"
+  },
+  {
+    "id": "RECEIPT-CONV-656c24c0-914a-499c-af3f-a266d4599bc4",
+    "type": "conversation_extraction",
+    "source": "656c24c0-914a-499c-af3f-a266d4599bc4",
+    "messages": 167,
+    "assertions": 86,
+    "digest": "fdb562599a77"
+  },
+  {
+    "id": "RECEIPT-CONV-b9fb1adc-48c8-4b39-b48b-caa73e107869",
+    "type": "conversation_extraction",
+    "source": "b9fb1adc-48c8-4b39-b48b-caa73e107869",
+    "messages": 2,
+    "assertions": 1,
+    "digest": "4c57f175003a"
+  },
+  {
+    "id": "RECEIPT-CONV-dd2d9ad5-2f8f-41e1-91c9-c7a15e90c8b2",
+    "type": "conversation_extraction",
+    "source": "dd2d9ad5-2f8f-41e1-91c9-c7a15e90c8b2",
+    "messages": 12,
+    "assertions": 6,
+    "digest": "b8a057aebcf9"
+  },
+  {
+    "id": "RECEIPT-CONV-e6819533-ee98-401f-b6e2-be031cdf88f4",
+    "type": "conversation_extraction",
+    "source": "e6819533-ee98-401f-b6e2-be031cdf88f4",
+    "messages": 8,
+    "assertions": 3,
+    "digest": "610fbf08da3c"
+  },
+  {
+    "id": "RECEIPT-CONV-5ba1666e-db3c-4745-9bbc-5204cb4e7dce",
+    "type": "conversation_extraction",
+    "source": "5ba1666e-db3c-4745-9bbc-5204cb4e7dce",
+    "messages": 71,
+    "assertions": 34,
+    "digest": "e13dc61d455c"
+  },
+  {
+    "id": "RECEIPT-CONV-0d30904a-03d8-48fa-a4b6-d457f05bafbb",
+    "type": "conversation_extraction",
+    "source": "0d30904a-03d8-48fa-a4b6-d457f05bafbb",
+    "messages": 25,
+    "assertions": 12,
+    "digest": "cd9ce12999b1"
+  },
+  {
+    "id": "RECEIPT-CONV-3d6e116f-c6d5-44e9-9769-d49897d262e3",
+    "type": "conversation_extraction",
+    "source": "3d6e116f-c6d5-44e9-9769-d49897d262e3",
+    "messages": 72,
+    "assertions": 37,
+    "digest": "e3da15f85d3b"
+  },
+  {
+    "id": "RECEIPT-CONV-dcb3ce7d-dd58-4a50-81c4-1ffa7d396300",
+    "type": "conversation_extraction",
+    "source": "dcb3ce7d-dd58-4a50-81c4-1ffa7d396300",
+    "messages": 41,
+    "assertions": 21,
+    "digest": "e3f4b70cfc6c"
+  },
+  {
+    "id": "RECEIPT-CONV-ea3aeafc-8586-46fe-a60d-141a00e67d27",
+    "type": "conversation_extraction",
+    "source": "ea3aeafc-8586-46fe-a60d-141a00e67d27",
+    "messages": 16,
+    "assertions": 8,
+    "digest": "557f4a3225fa"
+  },
+  {
+    "id": "RECEIPT-CONV-3bfc3be7-4ac3-4338-87c9-47b6499920cd",
+    "type": "conversation_extraction",
+    "source": "3bfc3be7-4ac3-4338-87c9-47b6499920cd",
+    "messages": 44,
+    "assertions": 23,
+    "digest": "9d1d3d2f7532"
+  },
+  {
+    "id": "RECEIPT-CONV-c4bf399f-7f83-4701-9421-6812bacd2143",
+    "type": "conversation_extraction",
+    "source": "c4bf399f-7f83-4701-9421-6812bacd2143",
+    "messages": 40,
+    "assertions": 20,
+    "digest": "3dc3cbcb7f9e"
+  },
+  {
+    "id": "RECEIPT-CONV-19c57a17-3caa-41d8-80ae-b0d630df98f2",
+    "type": "conversation_extraction",
+    "source": "19c57a17-3caa-41d8-80ae-b0d630df98f2",
+    "messages": 26,
+    "assertions": 13,
+    "digest": "421292010256"
+  },
+  {
+    "id": "RECEIPT-CONV-524c0722-08f0-4c1c-b53f-e4e4ed6036c5",
+    "type": "conversation_extraction",
+    "source": "524c0722-08f0-4c1c-b53f-e4e4ed6036c5",
+    "messages": 10,
+    "assertions": 5,
+    "digest": "6832357d5433"
+  },
+  {
+    "id": "RECEIPT-CONV-980e13f5-855d-42b0-97c6-f5b03466f72a",
+    "type": "conversation_extraction",
+    "source": "980e13f5-855d-42b0-97c6-f5b03466f72a",
+    "messages": 30,
+    "assertions": 15,
+    "digest": "d6c126cd8bae"
+  },
+  {
+    "id": "RECEIPT-CONV-4924b409-6bd6-4b9d-84af-2e196ccb8afb",
+    "type": "conversation_extraction",
+    "source": "4924b409-6bd6-4b9d-84af-2e196ccb8afb",
+    "messages": 12,
+    "assertions": 6,
+    "digest": "10d7aef7df92"
+  },
+  {
+    "id": "RECEIPT-CONV-ed691534-f608-4ede-90d1-37d5f7aedd20",
+    "type": "conversation_extraction",
+    "source": "ed691534-f608-4ede-90d1-37d5f7aedd20",
+    "messages": 2,
+    "assertions": 1,
+    "digest": "0fd50e2856c2"
+  },
+  {
+    "id": "RECEIPT-CONV-4804397c-dd74-4ac5-89e9-35fed3955e99",
+    "type": "conversation_extraction",
+    "source": "4804397c-dd74-4ac5-89e9-35fed3955e99",
+    "messages": 29,
+    "assertions": 14,
+    "digest": "d8f428a12981"
+  },
+  {
+    "id": "RECEIPT-CONV-bb11022d-38c8-422a-a461-ab4001a68bdc",
+    "type": "conversation_extraction",
+    "source": "bb11022d-38c8-422a-a461-ab4001a68bdc",
+    "messages": 2,
+    "assertions": 1,
+    "digest": "c9ee5b7786d7"
+  },
+  {
+    "id": "RECEIPT-CONV-ef508d91-8b0e-4b5d-9f5d-09a4928b039a",
+    "type": "conversation_extraction",
+    "source": "ef508d91-8b0e-4b5d-9f5d-09a4928b039a",
+    "messages": 10,
+    "assertions": 5,
+    "digest": "fc9e22717873"
+  },
+  {
+    "id": "RECEIPT-CONV-bce2b81b-0076-41e5-b77c-a3a428ebc464",
+    "type": "conversation_extraction",
+    "source": "bce2b81b-0076-41e5-b77c-a3a428ebc464",
+    "messages": 2,
+    "assertions": 1,
+    "digest": "7984de9e8743"
+  },
+  {
+    "id": "RECEIPT-CONV-6466be9a-51c8-4fc5-9a0b-3b9aa8e16834",
+    "type": "conversation_extraction",
+    "source": "6466be9a-51c8-4fc5-9a0b-3b9aa8e16834",
+    "messages": 10,
+    "assertions": 5,
+    "digest": "04cbd77d7228"
+  },
+  {
+    "id": "RECEIPT-CONV-1dc9d125-cf84-42db-b4ad-811f2e67bf8e",
+    "type": "conversation_extraction",
+    "source": "1dc9d125-cf84-42db-b4ad-811f2e67bf8e",
+    "messages": 12,
+    "assertions": 6,
+    "digest": "8b8903cb8505"
+  },
+  {
+    "id": "RECEIPT-CONV-894f5665-4d2e-4739-9198-a7a93dc06ecb",
+    "type": "conversation_extraction",
+    "source": "894f5665-4d2e-4739-9198-a7a93dc06ecb",
+    "messages": 30,
+    "assertions": 15,
+    "digest": "3ce16f19c5a1"
+  },
+  {
+    "id": "RECEIPT-CONV-8c8bed4d-a69a-4b83-9c86-ff4a81d37feb",
+    "type": "conversation_extraction",
+    "source": "8c8bed4d-a69a-4b83-9c86-ff4a81d37feb",
+    "messages": 34,
+    "assertions": 17,
+    "digest": "cb3d8243f34d"
+  },
+  {
+    "id": "RECEIPT-CONV-b7582af6-277b-4bf9-9948-312a9d35ee0f",
+    "type": "conversation_extraction",
+    "source": "b7582af6-277b-4bf9-9948-312a9d35ee0f",
+    "messages": 21,
+    "assertions": 11,
+    "digest": "edbd668702cf"
+  },
+  {
+    "id": "RECEIPT-CONV-5dcd0f3c-c711-489a-bfb8-f03295f05ed3",
+    "type": "conversation_extraction",
+    "source": "5dcd0f3c-c711-489a-bfb8-f03295f05ed3",
+    "messages": 26,
+    "assertions": 13,
+    "digest": "bb70fe20ecb1"
+  },
+  {
+    "id": "RECEIPT-CONV-f6a891e7-2c34-4425-bc5a-647048f17cca",
+    "type": "conversation_extraction",
+    "source": "f6a891e7-2c34-4425-bc5a-647048f17cca",
+    "messages": 22,
+    "assertions": 11,
+    "digest": "4e8adb8a2ab8"
+  },
+  {
+    "id": "RECEIPT-CONV-220d7eb1-cd50-4d8e-80b1-8821bcc41b8c",
+    "type": "conversation_extraction",
+    "source": "220d7eb1-cd50-4d8e-80b1-8821bcc41b8c",
+    "messages": 6,
+    "assertions": 3,
+    "digest": "c4bb9e9946d0"
+  },
+  {
+    "id": "RECEIPT-CONV-eb3cecc9-8a2a-428e-b5ec-9c075c12cb6c",
+    "type": "conversation_extraction",
+    "source": "eb3cecc9-8a2a-428e-b5ec-9c075c12cb6c",
+    "messages": 122,
+    "assertions": 59,
+    "digest": "3e9379f578d3"
+  },
+  {
+    "id": "RECEIPT-CONV-322d4071-30e9-4d0b-afbe-33ab1596f35e",
+    "type": "conversation_extraction",
+    "source": "322d4071-30e9-4d0b-afbe-33ab1596f35e",
+    "messages": 24,
+    "assertions": 12,
+    "digest": "31aed9fe8221"
+  },
+  {
+    "id": "RECEIPT-CONV-a346ee96-1b1a-4e7c-9f52-081185b97acc",
+    "type": "conversation_extraction",
+    "source": "a346ee96-1b1a-4e7c-9f52-081185b97acc",
+    "messages": 27,
+    "assertions": 14,
+    "digest": "4928fe775921"
+  },
+  {
+    "id": "RECEIPT-CONV-b04911ca-20b0-44e7-8a24-92719623f302",
+    "type": "conversation_extraction",
+    "source": "b04911ca-20b0-44e7-8a24-92719623f302",
+    "messages": 2,
+    "assertions": 1,
+    "digest": "b6cf412f92d0"
+  },
+  {
+    "id": "RECEIPT-CONV-72736cbd-c7cc-4d07-8d2e-a4d5fc7a520e",
+    "type": "conversation_extraction",
+    "source": "72736cbd-c7cc-4d07-8d2e-a4d5fc7a520e",
+    "messages": 21,
+    "assertions": 11,
+    "digest": "3739e1dad337"
+  },
+  {
+    "id": "RECEIPT-CONV-5ebbf94f-75de-4b51-8bab-4337c04de55a",
+    "type": "conversation_extraction",
+    "source": "5ebbf94f-75de-4b51-8bab-4337c04de55a",
+    "messages": 21,
+    "assertions": 11,
+    "digest": "a829cd0a36fe"
+  },
+  {
+    "id": "RECEIPT-CONV-72c25bdc-2be2-4a82-9933-8919152239c2",
+    "type": "conversation_extraction",
+    "source": "72c25bdc-2be2-4a82-9933-8919152239c2",
+    "messages": 9,
+    "assertions": 5,
+    "digest": "1a7b8753dc8c"
+  },
+  {
+    "id": "RECEIPT-CONV-b7529d25-9ef7-4b93-b052-b93ff275b506",
+    "type": "conversation_extraction",
+    "source": "b7529d25-9ef7-4b93-b052-b93ff275b506",
+    "messages": 126,
+    "assertions": 66,
+    "digest": "2a0577c40da0"
+  },
+  {
+    "id": "RECEIPT-CONV-861e9fdf-9d6b-4396-af5e-92724f5b79c3",
+    "type": "conversation_extraction",
+    "source": "861e9fdf-9d6b-4396-af5e-92724f5b79c3",
+    "messages": 12,
+    "assertions": 6,
+    "digest": "2e96216601fd"
+  },
+  {
+    "id": "RECEIPT-CONV-56777e2d-fa10-42cf-985d-f0402e64fe1e",
+    "type": "conversation_extraction",
+    "source": "56777e2d-fa10-42cf-985d-f0402e64fe1e",
+    "messages": 39,
+    "assertions": 19,
+    "digest": "fe3f5c5cba66"
+  },
+  {
+    "id": "RECEIPT-CONV-00663702-0199-4d48-a1f2-61c62fd14ff8",
+    "type": "conversation_extraction",
+    "source": "00663702-0199-4d48-a1f2-61c62fd14ff8",
+    "messages": 19,
+    "assertions": 9,
+    "digest": "b0627799bc6a"
+  },
+  {
+    "id": "RECEIPT-CONV-24117ab4-d8bf-4418-9468-f134a9c5bfe7",
+    "type": "conversation_extraction",
+    "source": "24117ab4-d8bf-4418-9468-f134a9c5bfe7",
+    "messages": 10,
+    "assertions": 5,
+    "digest": "7510f0d8d68f"
+  },
+  {
+    "id": "RECEIPT-CONV-e7c08303-74f3-4a9b-a3c1-4ba349e0d7a4",
+    "type": "conversation_extraction",
+    "source": "e7c08303-74f3-4a9b-a3c1-4ba349e0d7a4",
+    "messages": 2,
+    "assertions": 1,
+    "digest": "40be7f5e4062"
+  },
+  {
+    "id": "RECEIPT-CONV-d62d0dd2-bf4c-429b-be6c-620e888b2977",
+    "type": "conversation_extraction",
+    "source": "d62d0dd2-bf4c-429b-be6c-620e888b2977",
+    "messages": 26,
+    "assertions": 13,
+    "digest": "10eb412ba26a"
+  },
+  {
+    "id": "RECEIPT-CONV-a0025f99-1b7e-4501-8903-3dad6d2969b1",
+    "type": "conversation_extraction",
+    "source": "a0025f99-1b7e-4501-8903-3dad6d2969b1",
+    "messages": 39,
+    "assertions": 19,
+    "digest": "cc84cc32c949"
+  },
+  {
+    "id": "RECEIPT-CONV-213bccb5-a3dd-492e-ac15-8b9d37e7c702",
+    "type": "conversation_extraction",
+    "source": "213bccb5-a3dd-492e-ac15-8b9d37e7c702",
+    "messages": 20,
+    "assertions": 10,
+    "digest": "ba4ba360b8da"
+  },
+  {
+    "id": "RECEIPT-CONV-9c2e5e7c-f254-41be-927d-76fd52ffbda0",
+    "type": "conversation_extraction",
+    "source": "9c2e5e7c-f254-41be-927d-76fd52ffbda0",
+    "messages": 8,
+    "assertions": 4,
+    "digest": "9620bd456731"
+  },
+  {
+    "id": "RECEIPT-CONV-846261fd-3e97-4858-96e9-ddf8907f3e9f",
+    "type": "conversation_extraction",
+    "source": "846261fd-3e97-4858-96e9-ddf8907f3e9f",
+    "messages": 26,
+    "assertions": 13,
+    "digest": "faed76cb40f0"
+  },
+  {
+    "id": "RECEIPT-CONV-3e11c8fb-41cb-4669-8c7d-8d2f2fc669d2",
+    "type": "conversation_extraction",
+    "source": "3e11c8fb-41cb-4669-8c7d-8d2f2fc669d2",
+    "messages": 10,
+    "assertions": 5,
+    "digest": "bebd9c4da735"
+  },
+  {
+    "id": "RECEIPT-CONV-818dd43d-9ebc-46d4-9b04-b389938526ed",
+    "type": "conversation_extraction",
+    "source": "818dd43d-9ebc-46d4-9b04-b389938526ed",
+    "messages": 16,
+    "assertions": 8,
+    "digest": "1b70f326ba12"
+  },
+  {
+    "id": "RECEIPT-CONV-f58edd2a-fb56-465d-ac20-3cafc2b050ea",
+    "type": "conversation_extraction",
+    "source": "f58edd2a-fb56-465d-ac20-3cafc2b050ea",
+    "messages": 2,
+    "assertions": 1,
+    "digest": "ef3d3bb2b9fa"
+  },
+  {
+    "id": "RECEIPT-CONV-e9d93991-107c-46a2-b741-c23615cd7b85",
+    "type": "conversation_extraction",
+    "source": "e9d93991-107c-46a2-b741-c23615cd7b85",
+    "messages": 11,
+    "assertions": 5,
+    "digest": "5e0c412c4a9a"
+  },
+  {
+    "id": "RECEIPT-CONV-46838a4f-c203-4d5c-8321-6a8ece05635e",
+    "type": "conversation_extraction",
+    "source": "46838a4f-c203-4d5c-8321-6a8ece05635e",
+    "messages": 3,
+    "assertions": 1,
+    "digest": "bb45bf46d768"
+  },
+  {
+    "id": "RECEIPT-CONV-ec540f6c-7289-4fba-b7e1-edfe661601e0",
+    "type": "conversation_extraction",
+    "source": "ec540f6c-7289-4fba-b7e1-edfe661601e0",
+    "messages": 4,
+    "assertions": 2,
+    "digest": "1b5b6c6c6f89"
+  },
+  {
+    "id": "RECEIPT-CONV-3343d1c7-1253-44f3-8bb3-2c65ca525db0",
+    "type": "conversation_extraction",
+    "source": "3343d1c7-1253-44f3-8bb3-2c65ca525db0",
+    "messages": 4,
+    "assertions": 2,
+    "digest": "a47283c1eb76"
+  },
+  {
+    "id": "RECEIPT-CONV-dcb488f2-4ba9-43b5-82ad-266c7412aa73",
+    "type": "conversation_extraction",
+    "source": "dcb488f2-4ba9-43b5-82ad-266c7412aa73",
+    "messages": 360,
+    "assertions": 183,
+    "digest": "6ccd64b4a375"
+  },
+  {
+    "id": "RECEIPT-CONV-bd440ae9-1d28-4eb1-8bef-9bed0a5fd738",
+    "type": "conversation_extraction",
+    "source": "bd440ae9-1d28-4eb1-8bef-9bed0a5fd738",
+    "messages": 8,
+    "assertions": 4,
+    "digest": "09a1e451e9cd"
+  },
+  {
+    "id": "RECEIPT-CONV-d93bffaa-fa3c-45f5-bf43-5084649d97ac",
+    "type": "conversation_extraction",
+    "source": "d93bffaa-fa3c-45f5-bf43-5084649d97ac",
+    "messages": 2,
+    "assertions": 1,
+    "digest": "bd138ad84b48"
+  },
+  {
+    "id": "RECEIPT-CONV-137c55ff-e779-4469-b9d1-41dcfac0a133",
+    "type": "conversation_extraction",
+    "source": "137c55ff-e779-4469-b9d1-41dcfac0a133",
+    "messages": 2,
+    "assertions": 1,
+    "digest": "d65bd5fe56b8"
+  },
+  {
+    "id": "RECEIPT-CONV-f83e297d-a84d-420a-a993-6496112d4a1e",
+    "type": "conversation_extraction",
+    "source": "f83e297d-a84d-420a-a993-6496112d4a1e",
+    "messages": 12,
+    "assertions": 4,
+    "digest": "5173bff3d0f0"
+  },
+  {
+    "id": "RECEIPT-CONV-98388558-1088-4fb6-9777-dd90454c115b",
+    "type": "conversation_extraction",
+    "source": "98388558-1088-4fb6-9777-dd90454c115b",
+    "messages": 2,
+    "assertions": 1,
+    "digest": "4ec657be5a31"
+  },
+  {
+    "id": "RECEIPT-CONV-c16d4850-37ff-4e37-bfbb-0cb0addf018a",
+    "type": "conversation_extraction",
+    "source": "c16d4850-37ff-4e37-bfbb-0cb0addf018a",
+    "messages": 3,
+    "assertions": 2,
+    "digest": "65e733c216fe"
+  },
+  {
+    "id": "RECEIPT-CONV-b9ea592c-6eaf-4f99-9e66-f1badeb16330",
+    "type": "conversation_extraction",
+    "source": "b9ea592c-6eaf-4f99-9e66-f1badeb16330",
+    "messages": 2,
+    "assertions": 1,
+    "digest": "eb2aabc1f615"
+  },
+  {
+    "id": "RECEIPT-CONV-0cf4d0e6-c86a-4461-b45a-bb8d52a447d2",
+    "type": "conversation_extraction",
+    "source": "0cf4d0e6-c86a-4461-b45a-bb8d52a447d2",
+    "messages": 2,
+    "assertions": 1,
+    "digest": "a61a5dce8ded"
+  },
+  {
+    "id": "RECEIPT-CONV-2354b47f-ea1d-4d72-bfb1-3169984f6ab8",
+    "type": "conversation_extraction",
+    "source": "2354b47f-ea1d-4d72-bfb1-3169984f6ab8",
+    "messages": 6,
+    "assertions": 3,
+    "digest": "b8a5b4530cfe"
+  },
+  {
+    "id": "RECEIPT-CONV-ee5ea3eb-a99a-4483-9d65-91d6e4b84185",
+    "type": "conversation_extraction",
+    "source": "ee5ea3eb-a99a-4483-9d65-91d6e4b84185",
+    "messages": 2,
+    "assertions": 1,
+    "digest": "15426d9b8374"
+  },
+  {
+    "id": "RECEIPT-CONV-b4703a47-e909-49d4-8084-6060db11092e",
+    "type": "conversation_extraction",
+    "source": "b4703a47-e909-49d4-8084-6060db11092e",
+    "messages": 2,
+    "assertions": 1,
+    "digest": "c01e748eab0b"
+  },
+  {
+    "id": "RECEIPT-CONV-7f0af30f-8333-46d0-b07c-6f7d9b87e86e",
+    "type": "conversation_extraction",
+    "source": "7f0af30f-8333-46d0-b07c-6f7d9b87e86e",
+    "messages": 16,
+    "assertions": 8,
+    "digest": "6dbea08ea6eb"
+  },
+  {
+    "id": "RECEIPT-CONV-8cf155ad-6211-4440-9bcf-7deb19773c1a",
+    "type": "conversation_extraction",
+    "source": "8cf155ad-6211-4440-9bcf-7deb19773c1a",
+    "messages": 6,
+    "assertions": 3,
+    "digest": "bc5c4362a73f"
+  },
+  {
+    "id": "RECEIPT-CONV-d82ad69d-6f73-4929-80f9-21cac272d6b9",
+    "type": "conversation_extraction",
+    "source": "d82ad69d-6f73-4929-80f9-21cac272d6b9",
+    "messages": 22,
+    "assertions": 11,
+    "digest": "1d58af0f9099"
+  },
+  {
+    "id": "RECEIPT-CONV-6d49c61a-b9b3-4982-aa11-6c84a4ea468b",
+    "type": "conversation_extraction",
+    "source": "6d49c61a-b9b3-4982-aa11-6c84a4ea468b",
+    "messages": 32,
+    "assertions": 16,
+    "digest": "92f588fe0a0c"
+  },
+  {
+    "id": "RECEIPT-CONV-daeb9196-81ac-44f6-8be3-afc6a402400d",
+    "type": "conversation_extraction",
+    "source": "daeb9196-81ac-44f6-8be3-afc6a402400d",
+    "messages": 61,
+    "assertions": 30,
+    "digest": "4777065138df"
+  },
+  {
+    "id": "RECEIPT-CONV-0d8baf4e-4da5-4de8-bb8a-0b7c74936006",
+    "type": "conversation_extraction",
+    "source": "0d8baf4e-4da5-4de8-bb8a-0b7c74936006",
+    "messages": 2,
+    "assertions": 1,
+    "digest": "31d57b2627c2"
+  },
+  {
+    "id": "RECEIPT-CONV-419083a7-07b4-413c-9f08-f4f864724dc1",
+    "type": "conversation_extraction",
+    "source": "419083a7-07b4-413c-9f08-f4f864724dc1",
+    "messages": 6,
+    "assertions": 3,
+    "digest": "09b7f42e7adf"
+  },
+  {
+    "id": "RECEIPT-CONV-b734b533-2ab5-4e70-83c5-da2397247069",
+    "type": "conversation_extraction",
+    "source": "b734b533-2ab5-4e70-83c5-da2397247069",
+    "messages": 12,
+    "assertions": 4,
+    "digest": "7adda06dd930"
+  },
+  {
+    "id": "RECEIPT-CONV-68743019-2c89-4580-9f21-33a733bc78ff",
+    "type": "conversation_extraction",
+    "source": "68743019-2c89-4580-9f21-33a733bc78ff",
+    "messages": 37,
+    "assertions": 19,
+    "digest": "b04e0bbc2743"
+  },
+  {
+    "id": "RECEIPT-CONV-d4f5d0ae-97bd-4cc2-8c77-a7a19ef462c7",
+    "type": "conversation_extraction",
+    "source": "d4f5d0ae-97bd-4cc2-8c77-a7a19ef462c7",
+    "messages": 2,
+    "assertions": 1,
+    "digest": "6ceba76aa4b7"
+  },
+  {
+    "id": "RECEIPT-CONV-1f77cc5c-c339-4419-95cb-9e9fecf74443",
+    "type": "conversation_extraction",
+    "source": "1f77cc5c-c339-4419-95cb-9e9fecf74443",
+    "messages": 6,
+    "assertions": 3,
+    "digest": "f8a845a63203"
+  },
+  {
+    "id": "RECEIPT-CONV-f05ef26d-d345-44d6-b42c-348cdc7e42ec",
+    "type": "conversation_extraction",
+    "source": "f05ef26d-d345-44d6-b42c-348cdc7e42ec",
+    "messages": 14,
+    "assertions": 7,
+    "digest": "2f3abb86bafe"
+  },
+  {
+    "id": "RECEIPT-CONV-248a7759-ae76-4be0-94af-567cf33b6542",
+    "type": "conversation_extraction",
+    "source": "248a7759-ae76-4be0-94af-567cf33b6542",
+    "messages": 20,
+    "assertions": 10,
+    "digest": "8c6786537203"
+  },
+  {
+    "id": "RECEIPT-CONV-e0c482f1-aacc-4b4a-a145-026e08d7d468",
+    "type": "conversation_extraction",
+    "source": "e0c482f1-aacc-4b4a-a145-026e08d7d468",
+    "messages": 3,
+    "assertions": 1,
+    "digest": "34302a696605"
+  },
+  {
+    "id": "RECEIPT-CONV-add1e46e-c207-4d86-a497-7594736e13b4",
+    "type": "conversation_extraction",
+    "source": "add1e46e-c207-4d86-a497-7594736e13b4",
+    "messages": 27,
+    "assertions": 14,
+    "digest": "9058f320ea5b"
+  },
+  {
+    "id": "RECEIPT-CONV-a8c7301e-58b0-44da-9ed5-501297fc921c",
+    "type": "conversation_extraction",
+    "source": "a8c7301e-58b0-44da-9ed5-501297fc921c",
+    "messages": 3,
+    "assertions": 1,
+    "digest": "175250cfa76a"
+  },
+  {
+    "id": "RECEIPT-CONV-050fc5fc-aeda-4416-a211-2481e4515a85",
+    "type": "conversation_extraction",
+    "source": "050fc5fc-aeda-4416-a211-2481e4515a85",
+    "messages": 29,
+    "assertions": 14,
+    "digest": "dd4e3ad4bea0"
+  },
+  {
+    "id": "RECEIPT-CONV-d5622ec3-493e-47b2-8d45-ac2319282b1b",
+    "type": "conversation_extraction",
+    "source": "d5622ec3-493e-47b2-8d45-ac2319282b1b",
+    "messages": 23,
+    "assertions": 12,
+    "digest": "93ad08f630a1"
+  },
+  {
+    "id": "RECEIPT-CONV-3a8b685f-76bc-421d-841b-16be1e1b5065",
+    "type": "conversation_extraction",
+    "source": "3a8b685f-76bc-421d-841b-16be1e1b5065",
+    "messages": 17,
+    "assertions": 8,
+    "digest": "108d10fd8a55"
+  },
+  {
+    "id": "RECEIPT-CONV-4ec0c36a-dd49-47ab-9000-4e91297d461b",
+    "type": "conversation_extraction",
+    "source": "4ec0c36a-dd49-47ab-9000-4e91297d461b",
+    "messages": 136,
+    "assertions": 71,
+    "digest": "f086910b7e3f"
+  },
+  {
+    "id": "RECEIPT-CONV-0ec7b42e-1de4-4b3b-bc04-cccade95ecc0",
+    "type": "conversation_extraction",
+    "source": "0ec7b42e-1de4-4b3b-bc04-cccade95ecc0",
+    "messages": 8,
+    "assertions": 4,
+    "digest": "221890ec754a"
+  },
+  {
+    "id": "RECEIPT-CONV-caf59d59-abb7-4392-b6d3-cd1c74048718",
+    "type": "conversation_extraction",
+    "source": "caf59d59-abb7-4392-b6d3-cd1c74048718",
+    "messages": 6,
+    "assertions": 3,
+    "digest": "d2930adff6a2"
+  },
+  {
+    "id": "RECEIPT-CONV-678f65ea-faf4-4a8c-aeb9-eaa07a857b5b",
+    "type": "conversation_extraction",
+    "source": "678f65ea-faf4-4a8c-aeb9-eaa07a857b5b",
+    "messages": 17,
+    "assertions": 8,
+    "digest": "3dae3c476381"
+  },
+  {
+    "id": "RECEIPT-CONV-df87a37a-8b77-4d64-bf8b-5c24ac4e4600",
+    "type": "conversation_extraction",
+    "source": "df87a37a-8b77-4d64-bf8b-5c24ac4e4600",
+    "messages": 2,
+    "assertions": 1,
+    "digest": "a55574c4884d"
+  },
+  {
+    "id": "RECEIPT-CONV-e03cd3dd-8b1d-4b2b-891b-40b8e6b04c86",
+    "type": "conversation_extraction",
+    "source": "e03cd3dd-8b1d-4b2b-891b-40b8e6b04c86",
+    "messages": 2,
+    "assertions": 1,
+    "digest": "d59ce4bc202a"
+  },
+  {
+    "id": "RECEIPT-CONV-98186347-fdd1-43ef-8ffe-2a51cdcaeae6",
+    "type": "conversation_extraction",
+    "source": "98186347-fdd1-43ef-8ffe-2a51cdcaeae6",
+    "messages": 2,
+    "assertions": 1,
+    "digest": "b7589785fb39"
+  },
+  {
+    "id": "RECEIPT-CONV-f23c2540-439e-4d17-b656-f40961278d1d",
+    "type": "conversation_extraction",
+    "source": "f23c2540-439e-4d17-b656-f40961278d1d",
+    "messages": 10,
+    "assertions": 5,
+    "digest": "607ed1d0b100"
+  },
+  {
+    "id": "RECEIPT-CONV-7c8f459d-deef-4431-bfaa-c5d8dc790ad4",
+    "type": "conversation_extraction",
+    "source": "7c8f459d-deef-4431-bfaa-c5d8dc790ad4",
+    "messages": 21,
+    "assertions": 10,
+    "digest": "420b22a727e1"
+  },
+  {
+    "id": "private_account_metadata_quarantine",
+    "type": "private_account_metadata_quarantine",
+    "source": "user.json",
+    "messages": null,
+    "assertions": null,
+    "digest": ""
+  },
+  {
+    "id": "RECEIPT-PUBLIC-EXPORT",
+    "type": "public_export_filter",
+    "source": "",
+    "messages": null,
+    "assertions": null,
+    "digest": ""
+  }
+]

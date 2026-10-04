@@ -1,0 +1,4 @@
+- User reports multi-year pattern of near-zero replies to hundreds of cold emails and near-zero views on posted videos/graphics; primary ongoing contacts limited to mom, dad, Melissa, and rabbi (a few times each) [2026-09-13]
+- Ongoing Möbii³us / DoinBetter / Buddy system development with modular components (core loop, Namecheap schemas, Dollhouse, Origami, TOFAR/CRED, 8 domains) extracted from prior compilations [2026-09-13]
+- User requested deconstruction of dense drafts back to functional "vibe code" conversational aspirational declaratives [2026-09-25]
+- Large archive conversations.json (87 threads) + PartyChain / coherence / device zip packs present in attachments [2026-09-25]
